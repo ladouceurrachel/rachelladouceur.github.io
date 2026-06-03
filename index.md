@@ -13,5 +13,5 @@ Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Unive
 
 ### Téléchargements
 
-* 📄 [Télécharger mon Curriculum Vitae (PDF)](/cv.pdf)
+* 📄 [Télécharger mon Curriculum Vitae (PDF)](/Cv.pdf)
 
