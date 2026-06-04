@@ -1,9 +1,58 @@
 # Welcome on my site - Rachel Ladouceur
-<img src="photo.png" alt="Rachel Ladouceur" width="160" style="border-radius: 50%; float: left; margin-right: 20px;">
 
----
+<div style="display: flex; gap: 40px; margin-top: 30px; flex-wrap: wrap;">
 
-Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time with the National Defence Research Centre on information narratives.
+  <div style="flex: 1; min-width: 220px; max-width: 250px;">
+    
+    <img src="photo.png" alt="Rachel Ladouceur" style="width: 100%; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+    
+    <h3>Contact & Liens</h3>
+    <hr style="margin-bottom: 15px;">
+    
+    <ul style="list-style: none; padding-left: 0; line-height: 2.2;">
+      <li>💼 <a href="https://www.linkedin.com/in/VOTRE_NOM_D_UTILISATEUR" target="_blank">Mon Profil LinkedIn</a></li>
+      <li>🎓 <a href="https://scholar.google.com/citations?user=ladouceurrachel" target="_blank">Mon Profil Google Scholar</a></li>
+      <li>🆔 <a href="https://orcid.org/0000-0002-1825-0097" target="_blank">Mon Profil ORCID</a></li>
+      <li>💻 <a href="https://github.com/ladouceurrachel" target="_blank">Mon Profil GitHub</a></li>
+    </ul>
+    
+  </div>
+
+  <div style="flex: 2; min-width: 300px;">
+    
+    <p>Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time with the National Defence Research Centre on information narratives.
+</p>
+    
+    <h2>Research Interests</h2>
+    <hr>
+    <ul>
+      <li>Multimodal Fake News Detection</li>
+      <li>Large Language Models (LLMs) & BERT</li>
+      <li>Eye-Tracking & Oculometry (Gazepoint GP3)</li>
+      <li>Cybersecurity Frameworks & Incident Response (NIST)</li>
+    </ul>
+    
+    <h2>Publications</h2>
+    <hr>
+    
+    <h3>International Conferences</h3>
+    <ul>
+      <li>
+        <strong>Rachel Ladouceur</strong>, Chaima Njeh, Haïfa Nakouri, and Fehmi Jaafar. 
+        "Comparisons Between Open-LLMs For Fake News Detection." 
+        In <em>Proceedings of the 2025 9th Cyber Security in Networking Conference (CSNet)</em>, IEEE, pp. 1–5, 2025. 
+        <br>
+        [<a href="https://doi.org/10.1109/CSNet67572.2025.11288261" target="_blank">Digital Object Identifier (DOI)</a>]
+      </li>
+    </ul>
+    
+  </div>
+
+</div>
+
+
+# 
+
 
 ---
 
@@ -37,7 +86,9 @@ doi: 10.1109/CSNet67572.2025.11288261.
  
 * **Ladouceur, R.**, Pierre, S., & Jaafar, F. (2022). Cyberguerre : géopolitique des infrastructures technologiques et des réseaux sociaux. Dans D. Uzunidis & L. Adatto (Dir.), Catastrophes majeures au XXIe siècle : Santé, environnement, alimentation, guerre (Collection Magna Carta). Éditions Le Manuscrit.
 
+### Conference
 
+*	ACFAS, Intelligence artificielle et cyberinfluence, Congrès de l’Association francophone professionnelle pour le savoir (ACFAS), mai 2022.
 
 ### Teaching
 
