@@ -33,13 +33,19 @@
     
     <h2>Publications</h2>
     <hr>
-    
+
+
+  <h3>Article submitted</h3>
+  <ul>
+      <li>
+<strong>Ladouceur, R.</strong> Ben Abdessalem, H., & Jaafar, F. (2026). Elements of Credibility or Credulity About Fake News Exposure : An Empirical Study. Submitted to ACM Transactions on Social Computing (TSC), April 15th.
+* 
     <h3>International Conferences</h3>
     <ul>
       <li>
-        <strong>Rachel Ladouceur</strong>, Chaima Njeh, Haïfa Nakouri, and Fehmi Jaafar. 
-        "Comparisons Between Open-LLMs For Fake News Detection." 
-        In <em>Proceedings of the 2025 9th Cyber Security in Networking Conference (CSNet)</em>, IEEE, pp. 1–5, 2025. 
+        <strong>Ladouceur, R.</strong>, Njeh, C., Nakouri, H., and Jaafar, F. (2025). Comparisons Between Open-LLMs For Fake News Detection. In Proceedings of the 2025 9th Cyber Security in Networking Conference (CSNet) (pp. 1–5). IEEE.  doi: 10.1109/CSNet67572.2025.11288261.
+
+   <strong>Ladouceur, R.</strong>, Hassan, A., Mejri, M., & Jaafar, F. (2024). Can Deep Learning Detect Fake News Better when Adding Context Features ? In 2024 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 56–61). IEEE. doi: 10.1109/CSR61664.2024.10679393.
         <br>
         [<a href="https://doi.org/10.1109/CSNet67572.2025.11288261" target="_blank">Digital Object Identifier (DOI)</a>]
       </li>
@@ -50,20 +56,6 @@
 </div>
 
 
-## Research Interests
-
-* **Disinformation and influence campaigns Detection**
-* **Analyze narrative patterns**
-* **Large Language Models (LLMs)**
-* **Social platform datasets**
----
-
-## Publications
-
-
-### Article submitted
-
-* **Ladouceur, R.**, Ben Abdessalem, H., & Jaafar, F. (2026). Elements of Credibility or Credulity About Fake News Exposure : An Empirical Study. Submitted to ACM Transactions on Social Computing (TSC), April 15th.
 
 ### International Conferences
 
