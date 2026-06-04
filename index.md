@@ -26,10 +26,9 @@
     <h2>Research Interests</h2>
     <hr>
     <ul>
-      <li>Multimodal Fake News Detection</li>
-      <li>Large Language Models (LLMs) & BERT</li>
-      <li>Eye-Tracking & Oculometry (Gazepoint GP3)</li>
-      <li>Cybersecurity Frameworks & Incident Response (NIST)</li>
+      <li>Disinformation and influence campaigns Detection</li>
+      <li>Analyze narrative patterns</li>
+      <li>Large Language Models (LLMs)</li>
     </ul>
     
     <h2>Publications</h2>
@@ -50,11 +49,6 @@
 
 </div>
 
-
-# 
-
-
----
 
 ## Research Interests
 
