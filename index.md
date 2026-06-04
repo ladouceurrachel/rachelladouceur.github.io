@@ -16,7 +16,7 @@ Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Unive
 ## Publications
 
 
-### Article soumis
+### Article submitted
 
 * **Ladouceur, R.**, Ben Abdessalem, H., & Jaafar, F. (2026). Elements of Credibility or Credulity About Fake News Exposure : An Empirical Study. Submitted to ACM Transactions on Social Computing (TSC), April 15th.
 
@@ -29,7 +29,7 @@ doi: 10.1109/CSNet67572.2025.11288261.
 
 
   
-### Chapitre de livre
+### Book Chapter
 
 * **Ladouceur, R.** (2023). Cyber Influence Stakes. In F. Jaafar & S. Pierre (Eds.), Blockchain and Artificial Intelligence-Based Solution to Enhance the Privacy in Digital Identity and IoT (pp. 155–174). CRC Press.
  
@@ -37,7 +37,7 @@ doi: 10.1109/CSNet67572.2025.11288261.
 
 
 
-### Enseignement
+### Teaching
 
 *	Été 2026, **GCGR2010 Gouvernance en cyber et gestion des risques**, Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).
 
