@@ -1,5 +1,5 @@
 # Welcome on my site - Rachel Ladouceur
-<img src="photo.jpg" alt="Rachel Ladouceur" width="160" style="border-radius: 50%; float: left; margin-right: 20px;">
+<img src="photo.png" alt="Rachel Ladouceur" width="160" style="border-radius: 50%; float: left; margin-right: 20px;">
 
 ---
 
