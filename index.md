@@ -1,4 +1,6 @@
 # Welcome on my site - Rachel Ladouceur
+<img src="photo.jpg" alt="Rachel Ladouceur" width="160" style="border-radius: 50%; float: left; margin-right: 20px;">
+
 ---
 
 Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time with the National Defence Research Centre on information narratives.
