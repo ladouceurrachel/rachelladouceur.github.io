@@ -234,10 +234,7 @@
  </ul> 
  
 
-<!-- AJOUTEZ VOTRE CONTENU ICI -->
-<h2>CV</h2>
 
-<ul>
 </div>
 
 
