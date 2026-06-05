@@ -31,28 +31,7 @@
             padding: 0 20px;
         }
 
-        .site-title {
-            font-weight: bold;
-            font-size: 1.3em;
-            color: #111;
-            text-decoration: none;
-            margin: 0;
-        }
-
-        .nav-links {
-            display: flex;
-            gap: 20px;
-            list-style: none;
-            margin: 0;
-            padding: 0;
-        }
-
-        .nav-links a {
-            text-decoration: none;
-            color: #444;
-            font-size: 1em;
-            transition: color 0.2s;
-        }
+       
 
         .nav-links a:hover {
             color: #0066cc;
