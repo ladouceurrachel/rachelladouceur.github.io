@@ -188,7 +188,7 @@
   <div class="sidebar">
     <img src="photo.png" alt="Rachel Ladouceur" class="profile-photo">
     
-    <h3>Contact & Liens</h3>
+    <h3>Contact & Links</h3>
     <hr>
     
     <ul class="contact-links">
