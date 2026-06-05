@@ -186,7 +186,6 @@
     <div class="subtitle">PhD Candidate | Academic Lecturer | CPA, CISA</div>
     
     <!-- About Me Section -->
-    <h2>About Me</h2>
     <hr>
     <p>
       Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada since 2022. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time as a student PhD with the National Defence Research Centre.
@@ -234,7 +233,7 @@
       </li>
     </ul>
 
-    <h3>Conferences & Presentations</h3>
+    <h3>Conference Presentation</h3>
     <ul class="publication-list">
       <li>
         ACFAS, Intelligence artificielle et cyberinfluence, Congrès de l’Association francophone professionnelle pour le savoir (ACFAS), May 2022.
@@ -249,7 +248,7 @@
     </p>
     
     <div>
-        <a href="CV_Rachel_Ladouceur.pdf" target="_blank" class="cv-button">
+        <a href="Cv.pdf" target="_blank" class="cv-button">
             📄 Download my CV (PDF)
         </a>
     </div>
