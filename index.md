@@ -14,29 +14,6 @@
             background-color: #f5f5f5; /* Fond subtilement gris pour faire ressortir le contenu */
         }
 
-        /* --- Styles du Menu Supérieur --- */
-        header {
-            background-color: #ededed; /* Fond gris clair identique à la capture d'écran */
-            padding: 15px 0;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            width: 100%;
-        }
-
-        .nav-container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-
-       
-
-        .nav-links a:hover {
-            color: #0066cc;
-        }
-
         /* --- Styles du Conteneur Principal --- */
         .content-container {
             max-width: 1200px;
