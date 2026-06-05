@@ -43,10 +43,10 @@
  
  <h3>International Conferences</h3>
  <ul>
-      <li><strong>Ladouceur, R.</strong>, Njeh, C., Nakouri, H., and Jaafar, F. (2025). Comparisons Between Open-LLMs For Fake News Detection. In Proceedings of the 2025 9th Cyber Security in Networking Conference (CSNet) (pp. 1–5). IEEE. doi: 10.1109/CSNet67572.2025.11288261.      
+      <li><strong>Ladouceur, R.</strong>, Njeh, C., Nakouri, H., and Jaafar, F. (2025). Comparisons Between Open-LLMs For Fake News Detection. In Proceedings of the 2025 9th Cyber Security in Networking Conference (CSNet) (pp. 1–5). IEEE. doi: <a href="https://doi.org/10.1109/CSNet67572.2025.11288261      
       </li>
 
-   <li><strong>Ladouceur, R.</strong>, Hassan, A., Mejri, M., & Jaafar, F. (2024). Can Deep Learning Detect Fake News Better when Adding Context Features ? In 2024 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 56–61). IEEE. <a href="https://doi.org/10.1109/CSR61664.2024.10679393" target="_blank">Consulter l'article sur IEEE Xplore</a>doi: 10.1109/CSR61664.2024.10679393. 
+   <li><strong>Ladouceur, R.</strong>, Hassan, A., Mejri, M., & Jaafar, F. (2024). Can Deep Learning Detect Fake News Better when Adding Context Features ? In 2024 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 56–61). IEEE. <a href="https://doi.org/10.1109/CSR61664.2024." target="_blank">Consulter l'article sur IEEE Xplore</a> doi:10679393".
       </li>
   </ul>
      
