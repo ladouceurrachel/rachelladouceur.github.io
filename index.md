@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to my site - Rachel Ladouceur</title>
     <style>
         /* Styles généraux pour la page */
         body {
@@ -153,13 +152,11 @@
     </div>
 </header>
 <!-- ------------------ -->
-# Welcome on my site - Rachel Ladouceur
 
 <div style="display: flex; gap: 40px; margin-top: 30px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 220px; max-width: 250px;">
     
-    <img src="photo.png" alt="Rachel Ladouceur" style="width: 70%; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
     
     <h3>Contact & Liens</h3>
     <hr style="margin-bottom: 15px;">
