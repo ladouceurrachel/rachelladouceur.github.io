@@ -213,15 +213,23 @@
   <li>ACFAS, Intelligence artificielle et cyberinfluence, Congrès de l’Association francophone professionnelle pour le savoir (ACFAS), mai 2022.</li>
 </ul>
 
+
+<hr>
+<p>
+  In parallel with my research, I teach in academia to share my practical expertise.
+</p>
+
+<!-- AJOUTEZ VOTRE CONTENU ICI -->
+<h3>Cours enseignés</h3>
  <h2>Teaching</h2>
 <ul>
-  <li>Été 2026, <strong>GCGR2010 Gouvernance en cyber et gestion des risques</strong>, Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
+  <li>Summer 2026, <strong>GCGR2010 Cyber Governance and Risk Management</strong>, Graduate Diploma in Information Technology and Computer Science (TII), Université de technologie d’Haïti, 1 class of 19 students. 3-hour course (36 hours total).</li>
 
-  <li>Hiver 2026, <strong>GIS4020 Gestion des incidents de sécurité</strong> (incluant les outils de détection et de réponses), Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
+  <li>Winter 2026, <strong>GIS4020 Security Incident Management</strong> (including detection and response tools), Graduate Diploma in Information Technology and Computer Science (TII), Université de technologie d’Haïti, 1 class of 19 students. 3-hour course (36 hours total).</li>
 
-  <li>Hiver 2025, <strong>8INF970 Atelier de cybersécurité II</strong>, Département de l’informatique et de mathématique de l’Université de Québec à Chicoutimi, 1 classe de 30 étudiants de maîtrise. Cours de 3 heures (total de 45 heures). Évaluation par 8 étudiants : 69 réponses, 3.69/4, écart-type : 0.53.</li>
+  <li>Winter 2025, <strong>8INF970 Cybersecurity Workshop II</strong>, Department of Computer Science and Mathematics, Université du Québec à Chicoutimi, 1 class of 30 master’s students. 3-hour course (45 hours total). Evaluated by 8 students: 69 responses, 3.69/4, standard deviation: 0.53.</li>
 
-  <li>Automne 2022 et 2024, <strong>8INF882 Gestion des incidents de sécurité</strong> (incluant les outils de détection et de réponses), Département de l’informatique et de mathématique de l’Université de Québec à Chicoutimi, 1 classe de 7 étudiants à la maîtrise (2022) et 2 classes de 30 (2024). Cours de 3 heures (total de 4heures par session).</li>
+  <li>Fall 2022 and 2024, <strong>8INF882 Security Incident Management </strong> (including detection and response tools), Department of Computer Science and Mathematics, Université du Québec à Chicoutimi, 1 class of 7 master’s students (2022) and 2 classes of 30 (2024). 3-hour course (4 hours per session total).</li>
  </ul> 
  
   </div>
