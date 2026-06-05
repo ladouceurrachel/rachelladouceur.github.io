@@ -156,7 +156,9 @@
 <div style="display: flex; gap: 40px; margin-top: 30px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 220px; max-width: 250px;">
-    
+    Colonne de gauche : Photo et Liens -->
+  <div class="sidebar">
+    <img src="photo.png" alt="Rachel Ladouceur" class="profile-photo">
     
     <h3>Contact & Liens</h3>
     <hr style="margin-bottom: 15px;">
