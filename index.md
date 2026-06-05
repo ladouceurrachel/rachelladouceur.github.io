@@ -146,9 +146,7 @@
         <!-- Liens de navigation (répliqués et adaptés) -->
         <ul class="nav-links">
             <li><a href="#publications">Publications</a></li>
-            <li><a href="#service">Service</a></li>
             <li><a href="#teaching">Teaching</a></li>
-            <li><a href="#grants">Grants</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#cv">CV</a></li>
         </ul>
