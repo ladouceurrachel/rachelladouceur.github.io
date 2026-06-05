@@ -147,7 +147,7 @@
             <li><a href="#publications">Publications</a></li>
             <li><a href="#teaching">Teaching</a></li>
             <li><a href="#experience">Experience</a></li>
-            <li><a href="#cv">CV</a></li>
+            <li><a href="CV_Rachel_Ladouceur.pdf" target="_blank">CV</a></li>
         </ul>
     </div>
 </header>
