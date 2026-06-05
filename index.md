@@ -220,7 +220,6 @@
 </p>
 
 <!-- AJOUTEZ VOTRE CONTENU ICI -->
-<h3>Cours enseignés</h3>
  <h2>Teaching</h2>
 <ul>
   <li>Summer 2026, <strong>GCGR2010 Cyber Governance and Risk Management</strong>, Graduate Diploma in Information Technology and Computer Science (TII), Université de technologie d’Haïti, 1 class of 19 students. 3-hour course (36 hours total).</li>
@@ -232,8 +231,11 @@
   <li>Fall 2022 and 2024, <strong>8INF882 Security Incident Management </strong> (including detection and response tools), Department of Computer Science and Mathematics, Université du Québec à Chicoutimi, 1 class of 7 master’s students (2022) and 2 classes of 30 (2024). 3-hour course (4 hours per session total).</li>
  </ul> 
  
-  </div>
 
+<!-- AJOUTEZ VOTRE CONTENU ICI -->
+<h2>CV</h2>
+
+<ul>
 </div>
 
 
