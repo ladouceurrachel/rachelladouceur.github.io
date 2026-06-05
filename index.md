@@ -203,14 +203,20 @@
   <div class="main-content">
     
     <!-- Section À propos -->
-    <h2 id="about">À propos de moi</h2>
     <hr>
-    <p>
     
       
     <p>Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada since 2022. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time as a student PhD with the National Defence Research Centre.
 </p>
-    
+      <!-- Section Intérêts de recherche -->
+    <h2 style="margin-top: 40px;">Intérêts de recherche</h2>
+    <hr>
+    <ul class="research-interests">
+       <li>Disinformation and influence campaigns Detection</li>
+      <li>Analyze narrative patterns</li>
+      <li>Large Language Models (LLMs)</li>
+    </ul>
+
 <h2>Publications</h2>
     <hr>
 
@@ -255,15 +261,7 @@
 
 
 
-    <!-- Section Intérêts de recherche -->
-    <h2 style="margin-top: 40px;">Intérêts de recherche</h2>
-    <hr>
-    <ul class="research-interests">
-       <li>Disinformation and influence campaigns Detection</li>
-      <li>Analyze narrative patterns</li>
-      <li>Large Language Models (LLMs)</li>
-    </ul>
-
+  
 
 
 
