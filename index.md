@@ -46,23 +46,27 @@
       <li>
 <strong>Ladouceur, R.</strong>, Njeh, C., Nakouri, H., and Jaafar, F. (2025). Comparisons Between Open-LLMs For Fake News Detection. In Proceedings of the 2025 9th Cyber Security in Networking Conference (CSNet) (pp. 1–5). IEEE.  
         <br>
-        [<a href="https://doi.org/10.1109/CSNet67572.2025.11288261" target="_blank">Digital Object Identifier (DOI)
-
+        [<a href="https://doi.org/10.1109/CSNet67572.2025.11288261" >
+<ul>
+      <li>
 <strong>Ladouceur, R.</strong>, Hassan, A., Mejri, M., & Jaafar, F. (2024). Can Deep Learning Detect Fake News Better when Adding Context Features ? In 2024 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 56–61). IEEE. doi: 10.1109/CSR61664.2024.10679393.
         <br>
-        [<a href="https://doi.org/10.1109/CSR61664.2024.10679393" target="_blank">Digital Object Identifier (DOI)
+        [<a href="https://doi.org/10.1109/CSR61664.2024.10679393" >
         
-       ### Book Chapter
+<h3>Book Chapter</h3>
+<ul>
+  <li>
+<strong>Ladouceur, R.</strong> (2023). Cyber Influence Stakes. In F. Jaafar & S. Pierre (Eds.), Blockchain and Artificial Intelligence-Based Solution to Enhance the Privacy in Digital Identity and IoT (pp. 155–174). CRC Press.
+ <ul>
+  <li>
+<strong>Ladouceur, R.</strong>, Pierre, S., & Jaafar, F. (2022). Cyberguerre : géopolitique des infrastructures technologiques et des réseaux sociaux. Dans D. Uzunidis & L. Adatto (Dir.), Catastrophes majeures au XXIe siècle : Santé, environnement, alimentation, guerre (Collection Magna Carta). Éditions Le Manuscrit.
 
-* **Ladouceur, R.** (2023). Cyber Influence Stakes. In F. Jaafar & S. Pierre (Eds.), Blockchain and Artificial Intelligence-Based Solution to Enhance the Privacy in Digital Identity and IoT (pp. 155–174). CRC Press.
- 
-* **Ladouceur, R.**, Pierre, S., & Jaafar, F. (2022). Cyberguerre : géopolitique des infrastructures technologiques et des réseaux sociaux. Dans D. Uzunidis & L. Adatto (Dir.), Catastrophes majeures au XXIe siècle : Santé, environnement, alimentation, guerre (Collection Magna Carta). Éditions Le Manuscrit.
+ <h3>Conference</h3>
+<ul>
+  <li>
+ACFAS, Intelligence artificielle et cyberinfluence, Congrès de l’Association francophone professionnelle pour le savoir (ACFAS), mai 2022.
 
-### Conference
-
-*	ACFAS, Intelligence artificielle et cyberinfluence, Congrès de l’Association francophone professionnelle pour le savoir (ACFAS), mai 2022.
-
-### Teaching
+ <h2>Teaching
 
 *	Été 2026, **GCGR2010 Gouvernance en cyber et gestion des risques**, Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).
 
