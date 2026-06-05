@@ -64,7 +64,7 @@
 
  <h2>Teaching</h2>
 <ul>
-  <li>Été 2026, <strong>GCGR2010 Gouvernance en cyber et gestion des risques**, Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
+  <li>Été 2026, <strong>GCGR2010 Gouvernance en cyber et gestion des risques</strong>, Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
 
   <li>Hiver 2026, <strong>GIS4020 Gestion des incidents de sécurité</strong> (incluant les outils de détection et de réponses), Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
 
