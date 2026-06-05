@@ -147,7 +147,7 @@
         <ul class="nav-links">
             <li><a href="#publications">Publications</a></li>
             <li><a href="#teaching">Teaching</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
             <li><a href="#cv">CV</a></li>
         </ul>
     </div>
