@@ -5,7 +5,7 @@
 
   <div style="flex: 1; min-width: 220px; max-width: 250px;">
     
-    <img src="photo.png" alt="Rachel Ladouceur" style="width: 100%; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+    <img src="photo.png" alt="Rachel Ladouceur" style="width: 90%; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
     
     <h3>Contact & Liens</h3>
     <hr style="margin-bottom: 15px;">
