@@ -248,26 +248,188 @@
 </ul>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teaching - Rachel Ladouceur</title>
+    <style>
+        /* Shared layout styling to match index.html */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
 
+        header {
+            background-color: #ededed;
+            padding: 15px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            width: 100%;
+        }
 
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
 
+        .site-title {
+            font-weight: bold;
+            font-size: 1.3em;
+            color: #111;
+            text-decoration: none;
+            margin: 0;
+        }
 
+        .nav-links {
+            display: flex;
+            gap: 20px;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
 
+        .nav-links a {
+            text-decoration: none;
+            color: #444;
+            font-size: 1em;
+            transition: color 0.2s;
+        }
 
+        .nav-links a:hover {
+            color: #0066cc;
+        }
 
+        .content-container {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 40px;
+            display: flex;
+            gap: 40px;
+            flex-wrap: wrap;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        }
 
+        .sidebar {
+            flex: 1;
+            min-width: 220px;
+            max-width: 250px;
+        }
 
+        .profile-photo {
+            width: 90%;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
 
+        .sidebar h3 {
+            margin-top: 0;
+        }
 
+        .sidebar hr {
+            margin-bottom: 15px;
+            border: 0;
+            border-top: 1px solid #eee;
+        }
 
+        .contact-links {
+            list-style: none;
+            padding-left: 0;
+            line-height: 2.2;
+        }
 
+        .contact-links a {
+            text-decoration: none;
+            color: #0066cc;
+        }
 
-    <!-- Section Teaching -->
-    <h2 id="teaching" style="margin-top: 40px;">Teaching</h2>
+        .main-content {
+            flex: 2;
+            min-width: 300px;
+        }
+
+        .main-content h2 {
+            margin-top: 0;
+            color: #222;
+        }
+
+        .main-content hr {
+            border: 0;
+            border-top: 1px solid #eee;
+            margin-bottom: 20px;
+        }
+
+        .main-content p {
+            line-height: 1.6;
+            font-size: 1.1em;
+            margin-bottom: 1.2em;
+        }
+
+        .teaching-list {
+            line-height: 1.8;
+            font-size: 1.05em;
+            padding-left: 20px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- --- SAME NAVIGATION BAR --- -->
+<header>
+    <div class="nav-container">
+        <a href="index.html" class="site-title">Rachel Ladouceur</a>
+        
+        <ul class="nav-links">
+            <li><a href="index.html#publications">Publications</a></li>
+            <li><a href="index.html#service">Service</a></li>
+            <li><a href="teaching.html" style="color: #0066cc; font-weight: bold;">Teaching</a></li>
+            <li><a href="index.html#grants">Grants</a></li>
+            <li><a href="index.html">About</a></li>
+            <li><a href="CV_Rachel_Ladouceur.pdf" target="_blank">CV</a></li>
+        </ul>
+    </div>
+</header>
+
+<!-- --- CONTENT FOR TEACHING PAGE --- -->
+<div class="content-container">
+
+  <h1 style="width: 100%; margin-top: 0; margin-bottom: 30px; text-align: center; color: #111;">Teaching & Academic Experience</h1>
+
+  <!-- Sidebar (Stays identical for branding) -->
+  <div class="sidebar">
+    <img src="photo.png" alt="Rachel Ladouceur" class="profile-photo">
+    
+    <h3>Contact & Links</h3>
+    <hr>
+    
+    <ul class="contact-links">
+      <li>💼 <a href="https://www.linkedin.com/in/rachel-ladouceur-a2a86b26" target="_blank">My LinkedIn Profile</a></li>
+      <li>🎓 <a href="https://scholar.google.com/citations?user=ladouceurrachel" target="_blank">My Google Scholar Profile</a></li>
+      <li>🆔 <a href="https://orcid.org/0009-0009-9201-0268" target="_blank">My ORCID Profile</a></li>
+      <li>💻 <a href="https://github.com/ladouceurrachel" target="_blank">My GitHub Profile</a></li>
+    </ul>
+  </div>
+
+  <!-- Dedicated Main Teaching Content -->
+  <div class="main-content">
+    
+    <h2>Courses Taught</h2>
     <hr>
     <p>
-       In parallel with my research, I teach in academia to share my practical expertise.
+      Alongside my doctoral studies, I serve as an academic lecturer to bridge theoretical computer science frameworks with operational IT realities. My courses focus heavily on industry frameworks, proactive defense, and information system control.
     </p>
+
     <ul class="teaching-list">
         <li>Summer 2026, <strong>GCGR2010 Cyber Governance and Risk Management</strong>, Graduate Diploma in Information Technology and Computer Science (TII), Université de technologie d’Haïti, 1 class of 19 students. 3-hour course (36 hours total).</li>
 
@@ -277,6 +439,25 @@
 
   <li>Fall 2022 and 2024, <strong>8INF882 Security Incident Management </strong> (including detection and response tools), Department of Computer Science and Mathematics, Université du Québec à Chicoutimi, 1 class of 7 master’s students (2022) and 2 classes of 30 (2024). 3-hour course (4 hours per session total).</li>
     </ul>
+
+    <h3 style="margin-top: 30px;">Pedagogical Philosophy</h3>
+    <p>
+      My teaching approach balances empirical technical knowledge with strategic regulatory compliance. By leveraging my experience in risk assessment and machine learning, I aim to prepare students for both immediate technological challenges and macro-level security governance.
+    </p>
+
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
 
 
 
