@@ -39,6 +39,7 @@
   <h3>Article submitted</h3>
   <ul>
       <li><strong>Ladouceur, R.</strong> Ben Abdessalem, H., & Jaafar, F. (2026). Elements of Credibility or Credulity About Fake News Exposure : An Empirical Study. Submitted to ACM Transactions on Social Computing (TSC), April 15th.</li>
+ </ul>
  
  <h3>International Conferences</h3>
  <ul>
@@ -47,16 +48,19 @@
 
    <li><strong>Ladouceur, R.</strong>, Hassan, A., Mejri, M., & Jaafar, F. (2024). Can Deep Learning Detect Fake News Better when Adding Context Features ? In 2024 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 56–61). IEEE. doi: 10.1109/CSR61664.2024.10679393. <a href="https://doi.org/10.1109/CSR61664.2024.10679393" >
       </li>
-        
+  </ul>
+     
 <h3>Book Chapter</h3>
 <ul>
   <li><strong>Ladouceur, R.</strong> (2023). Cyber Influence Stakes. In F. Jaafar & S. Pierre (Eds.), Blockchain and Artificial Intelligence-Based Solution to Enhance the Privacy in Digital Identity and IoT (pp. 155–174). CRC Press.</li>
 
   <li><strong>Ladouceur, R.</strong>, Pierre, S., & Jaafar, F. (2022). Cyberguerre : géopolitique des infrastructures technologiques et des réseaux sociaux. Dans D. Uzunidis & L. Adatto (Dir.), Catastrophes majeures au XXIe siècle : Santé, environnement, alimentation, guerre (Collection Magna Carta). Éditions Le Manuscrit.</li>
+</ul>
 
  <h3>Conference</h3>
 <ul>
   <li>ACFAS, Intelligence artificielle et cyberinfluence, Congrès de l’Association francophone professionnelle pour le savoir (ACFAS), mai 2022.</li>
+</ul>
 
  <h2>Teaching</h2>
 <ul>
@@ -67,15 +71,8 @@
   <li>Hiver 2025, **8INF970 Atelier de cybersécurité II**, Département de l’informatique et de mathématique de l’Université de Québec à Chicoutimi, 1 classe de 30 étudiants de maîtrise. Cours de 3 heures (total de 45 heures). Évaluation par 8 étudiants : 69 réponses, 3.69/4, écart-type : 0.53.</li>
 
   <li>Automne 2022 et 2024, **8INF882 Gestion des incidents de sécurité** (incluant les outils de détection et de réponses), Département de l’informatique et de mathématique de l’Université de Québec à Chicoutimi, 1 classe de 7 étudiants à la maîtrise (2022) et 2 classes de 30 (2024). Cours de 3 heures (total de 45 heures par session).</li>
+ </ul>
  
-        
-        
-        
-        
-        </a>]
-      </li>
-    </ul>
-    
   </div>
 
 </div>
