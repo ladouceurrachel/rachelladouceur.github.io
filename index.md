@@ -43,10 +43,10 @@
  
  <h3>International Conferences</h3>
  <ul>
-      <li><strong>Ladouceur, R.</strong>, Njeh, C., Nakouri, H., and Jaafar, F. (2025). Comparisons Between Open-LLMs For Fake News Detection. In Proceedings of the 2025 9th Cyber Security in Networking Conference (CSNet) (pp. 1–5). IEEE.  <a href="https://doi.org/10.1109/CSNet67572.2025.11288261" >        
+      <li><strong>Ladouceur, R.</strong>, Njeh, C., Nakouri, H., and Jaafar, F. (2025). Comparisons Between Open-LLMs For Fake News Detection. In Proceedings of the 2025 9th Cyber Security in Networking Conference (CSNet) (pp. 1–5). IEEE. doi: 10.1109/CSNet67572.2025.11288261.      
       </li>
 
-   <li><strong>Ladouceur, R.</strong>, Hassan, A., Mejri, M., & Jaafar, F. (2024). Can Deep Learning Detect Fake News Better when Adding Context Features ? In 2024 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 56–61). IEEE. doi: 10.1109/CSR61664.2024.10679393. <a href="https://doi.org/10.1109/CSR61664.2024.10679393" >
+   <li><strong>Ladouceur, R.</strong>, Hassan, A., Mejri, M., & Jaafar, F. (2024). Can Deep Learning Detect Fake News Better when Adding Context Features ? In 2024 IEEE International Conference on Cyber Security and Resilience (CSR) (pp. 56–61). IEEE. <a href="https://doi.org/10.1109/CSR61664.2024.10679393" target="_blank">Consulter l'article sur IEEE Xplore</a>doi: 10.1109/CSR61664.2024.10679393. 
       </li>
   </ul>
      
@@ -64,14 +64,14 @@
 
  <h2>Teaching</h2>
 <ul>
-  <li>Été 2026, **GCGR2010 Gouvernance en cyber et gestion des risques**, Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
+  <li>Été 2026, <strong>GCGR2010 Gouvernance en cyber et gestion des risques**, Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
 
-  <li>Hiver 2026, **GIS4020 Gestion des incidents de sécurité** (incluant les outils de détection et de réponses), Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
+  <li>Hiver 2026, <strong>GIS4020 Gestion des incidents de sécurité</strong> (incluant les outils de détection et de réponses), Programme de Diplôme d’Études Supérieures Spécialisées (DESS) en Technologie d’Information et informatique (TII), Université de technologie d’Haïti, 1 classe de 19 étudiants. Cours de 3 heures (total de 36 heures).</li>
 
-  <li>Hiver 2025, **8INF970 Atelier de cybersécurité II**, Département de l’informatique et de mathématique de l’Université de Québec à Chicoutimi, 1 classe de 30 étudiants de maîtrise. Cours de 3 heures (total de 45 heures). Évaluation par 8 étudiants : 69 réponses, 3.69/4, écart-type : 0.53.</li>
+  <li>Hiver 2025, <strong>8INF970 Atelier de cybersécurité II</strong>, Département de l’informatique et de mathématique de l’Université de Québec à Chicoutimi, 1 classe de 30 étudiants de maîtrise. Cours de 3 heures (total de 45 heures). Évaluation par 8 étudiants : 69 réponses, 3.69/4, écart-type : 0.53.</li>
 
-  <li>Automne 2022 et 2024, **8INF882 Gestion des incidents de sécurité** (incluant les outils de détection et de réponses), Département de l’informatique et de mathématique de l’Université de Québec à Chicoutimi, 1 classe de 7 étudiants à la maîtrise (2022) et 2 classes de 30 (2024). Cours de 3 heures (total de 45 heures par session).</li>
- </ul>
+  <li>Automne 2022 et 2024, <strong>8INF882 Gestion des incidents de sécurité</strong> (incluant les outils de détection et de réponses), Département de l’informatique et de mathématique de l’Université de Québec à Chicoutimi, 1 classe de 7 étudiants à la maîtrise (2022) et 2 classes de 30 (2024). Cours de 3 heures (total de 4heures par session).</li>
+ </ul> 
  
   </div>
 
