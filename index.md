@@ -261,12 +261,9 @@
 
 
 
-  
 
-
-
-    <!-- Section Enseignement (Teaching) -->
-    <h2 id="teaching" style="margin-top: 40px;">Enseignement & Expérience (Teaching)</h2>
+    <!-- Section Teaching -->
+    <h2 id="teaching" style="margin-top: 40px;">Teaching</h2>
     <hr>
     <p>
        In parallel with my research, I teach in academia to share my practical expertise.
