@@ -275,7 +275,7 @@
 
     <ul class="teaching-list">
         <li>
-            <strong>GIS 4020 — Security Gouvernance and risk management</strong> <br>
+            <strong>GCGR2010 — Security Gouvernance and risk management</strong> <br>
             <em>Université de technologie d’Haïti</em> | Winter 2026 (Current) <br>
             Lecturer for 1 class of 19 students. Graduate Diploma (DESS) in Information Technology and Computer Science (TII). Total of 36 hours (3 hours/week).
         </li>
