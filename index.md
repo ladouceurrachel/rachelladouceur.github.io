@@ -325,23 +325,22 @@
         <ul class="teaching-list">
             <li>
                 <strong>GCGR2010 — Security Governance and Risk Management</strong> <br>
-                <em>Université de technologie d’Haïti</em> | Winter 2026 (Current) <br>
+                <em>Université de technologie d’Haïti</em> | Spring 2026 (Current) <br>
                 Lecturer for 1 class of 19 students. Graduate Diploma (DESS) in Information Technology and Computer Science (TII). Total of 36 hours (3 hours/week).
             </li>
             <li>
-                <strong>GIS 4020 — Security Incident Management (Detection & Response Tools)</strong> <br>
-                <em>Université de technologie d’Haïti</em> | Winter 2026 (Current) <br>
+                <strong>GIS4020 — Security Incident Management (Detection & Response Tools)</strong> <br>
+                <em>Université de technologie d’Haïti</em> | Winter 2026 <br>
                 Lecturer for 1 class of 19 students. Graduate Diploma (DESS) in Information Technology and Computer Science (TII). Total of 36 hours (3 hours/week).
             </li>
             <li>
                 <strong>8INF970 — Cybersecurity Workshop II</strong> <br>
                 <em>Université du Québec à Chicoutimi (UQAC)</em> | Winter 2025 <br>
-                Lecturer for 1 class of 30 Master's students. Department of Computer Science and Mathematics. Total of 45 hours (3 hours/week). <br>
-                <small style="color: #666;">Course Evaluation (by 8 students): 69 responses, score of 3.69/4 (Std Dev: 0.53).</small>
+                Lecturer for 1 class of 30 Master's students. Department of Computer Science and Mathematics. Total of 45 hours (3 hours/week). 
             </li>
             <li>
                 <strong>8INF882 — Security Incident Management (Detection & Response Tools)</strong> <br>
-                <em>Université du Québec à Chicoutimi (UQAC)</em> | Fall 2022, 2023, 2024 <br>
+                <em>Université du Québec à Chicoutimi (UQAC)</em> | Fall 2022, 2024 <br>
                 Lecturer for the Department of Computer Science and Mathematics. Taught 1 class of 7 Master's students (2022) and 2 classes of 30 students (2024). Total of 45 hours per semester (3 hours/week).
             </li>
         </ul>
