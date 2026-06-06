@@ -187,20 +187,12 @@
         
         <ul class="nav-links">
             <li><a href="index.html#publications">Publications</a></li>
-            <li><a href="index.html#service">Service</a></li>
             <li><a href="teaching.html" style="color: #0066cc; font-weight: bold;">Teaching</a></li>
-            <li><a href="index.html#grants">Grants</a></li>
             <li><a href="index.html">About</a></li>
-            <li><a href="CV_Rachel_Ladouceur.pdf" target="_blank">CV</a></li>
+            <li><a href="Cv.pdf" target="_blank">CV</a></li>
         </ul>
     </div>
 </header>
-
-<!-- --- CONTENT FOR TEACHING PAGE --- -->
-<div class="content-container">
-
-  <h1 style="width: 100%; margin-top: 0; margin-bottom: 30px; text-align: center; color: #111;">Teaching & Academic Experience</h1>
-
 
 
   
@@ -209,12 +201,16 @@
     
     <h1>Rachel Ladouceur</h1>
     <div class="subtitle">PhD Candidate | Academic Lecturer | CPA, CISA</div>
+
+
     
     <!-- About Me Section -->
     <hr>
     <p>
       Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada since 2022. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time as a student PhD with the National Defence Research Centre.
     </p>
+
+
 
     <!-- Research Interests Section -->
     <h2>Research Interests</h2>
@@ -224,6 +220,8 @@
       <li>Analyze narrative patterns</li>
       <li>Large Language Models (LLMs)</li>
     </ul>
+
+
 
     <!-- Publications Section -->
     <h2>Publications</h2>
@@ -269,22 +267,37 @@
 <!-- Dedicated Main Teaching Content -->
   <div class="main-content">
     
-    <h2>Courses Taught</h2>
+    <h2>Teaching</h2>
     <hr>
     <p>
       Alongside my doctoral studies, I serve as an academic lecturer to bridge theoretical computer science frameworks with operational IT realities. My courses focus heavily on industry frameworks, proactive defense, and information system control.
     </p>
 
     <ul class="teaching-list">
-        <li><strong>Incident Management & Threat Detection Tools</strong> – Lecturer</li>
-        <li><strong>IT Auditing & Cybersecurity Frameworks</strong> – Lecturer</li>
+        <li>
+            <strong>GIS 4020 — Security Gouvernance and risk management</strong> <br>
+            <em>Université de technologie d’Haïti</em> | Winter 2026 (Current) <br>
+            Lecturer for 1 class of 19 students. Graduate Diploma (DESS) in Information Technology and Computer Science (TII). Total of 36 hours (3 hours/week).
+        </li>
+        <li>
+            <strong>GIS 4020 — Security Incident Management (Detection & Response Tools)</strong> <br>
+            <em>Université de technologie d’Haïti</em> | Winter 2026 (Current) <br>
+            Lecturer for 1 class of 19 students. Graduate Diploma (DESS) in Information Technology and Computer Science (TII). Total of 36 hours (3 hours/week).
+        </li>
+        <li>
+            <strong>8INF970 — Cybersecurity Workshop II</strong> <br>
+            <em>Université du Québec à Chicoutimi (UQAC)</em> | Winter 2025 <br>
+            Lecturer for 1 class of 30 Master's students. Department of Computer Science and Mathematics. Total of 45 hours (3 hours/week). <br>
+            <small style="color: #666;">Course Evaluation (by 8 students): 69 responses, score of 3.69/4 (Std Dev: 0.53).</small>
+        </li>
+        <li>
+            <strong>8INF882 — Security Incident Management (Detection & Response Tools)</strong> <br>
+            <em>Université du Québec à Chicoutimi (UQAC)</em> | Fall 2022, 2023, 2024 <br>
+            Lecturer for the Department of Computer Science and Mathematics. Taught 1 class of 7 Master's students (2022) and 2 classes of 30 students (2024). Total of 45 hours per semester (3 hours/week).
+        </li>
     </ul>
 
-    <h3 style="margin-top: 30px;">Pedagogical Philosophy</h3>
-    <p>
-      My teaching approach balances empirical technical knowledge with strategic regulatory compliance. By leveraging my experience in risk assessment and machine learning, I aim to prepare students for both immediate technological challenges and macro-level security governance.
-    </p>
-
+ 
     
     <!-- Curriculum Vitae Section -->
     <h2>Curriculum Vitae</h2>
