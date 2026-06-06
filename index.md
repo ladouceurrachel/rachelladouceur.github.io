@@ -240,6 +240,27 @@
       </li>
     </ul>
 
+
+<!-- Dedicated Main Teaching Content -->
+  <div class="main-content">
+    
+    <h2>Courses Taught</h2>
+    <hr>
+    <p>
+      Alongside my doctoral studies, I serve as an academic lecturer to bridge theoretical computer science frameworks with operational IT realities. My courses focus heavily on industry frameworks, proactive defense, and information system control.
+    </p>
+
+    <ul class="teaching-list">
+        <li><strong>Incident Management & Threat Detection Tools</strong> – Lecturer</li>
+        <li><strong>IT Auditing & Cybersecurity Frameworks</strong> – Lecturer</li>
+    </ul>
+
+    <h3 style="margin-top: 30px;">Pedagogical Philosophy</h3>
+    <p>
+      My teaching approach balances empirical technical knowledge with strategic regulatory compliance. By leveraging my experience in risk assessment and machine learning, I aim to prepare students for both immediate technological challenges and macro-level security governance.
+    </p>
+
+    
     <!-- Curriculum Vitae Section -->
     <h2>Curriculum Vitae</h2>
     <hr>
