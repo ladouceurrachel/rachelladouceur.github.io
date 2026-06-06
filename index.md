@@ -179,6 +179,31 @@
     </ul>
   </div>
 
+
+- --- SAME NAVIGATION BAR --- -->
+<header>
+    <div class="nav-container">
+        <a href="index.html" class="site-title">Rachel Ladouceur</a>
+        
+        <ul class="nav-links">
+            <li><a href="index.html#publications">Publications</a></li>
+            <li><a href="index.html#service">Service</a></li>
+            <li><a href="teaching.html" style="color: #0066cc; font-weight: bold;">Teaching</a></li>
+            <li><a href="index.html#grants">Grants</a></li>
+            <li><a href="index.html">About</a></li>
+            <li><a href="CV_Rachel_Ladouceur.pdf" target="_blank">CV</a></li>
+        </ul>
+    </div>
+</header>
+
+<!-- --- CONTENT FOR TEACHING PAGE --- -->
+<div class="content-container">
+
+  <h1 style="width: 100%; margin-top: 0; margin-bottom: 30px; text-align: center; color: #111;">Teaching & Academic Experience</h1>
+
+
+
+  
   <!-- Right Main Content -->
   <div class="main-content">
     
