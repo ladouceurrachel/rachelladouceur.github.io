@@ -319,7 +319,7 @@
         <h2 id="teaching">Teaching</h2>
         <hr>
         <p>
-            Alongside my doctoral studies, I serve as an academic lecturer to bridge theoretical computer science frameworks with operational IT realities. My courses focus heavily on industry frameworks, proactive defense, and information system control.
+            Alongside my doctoral studies, I serve as an academic lecturer to bridge theoretical computer science frameworks with operational IT realities. 
         </p>
 
         <ul class="teaching-list">
