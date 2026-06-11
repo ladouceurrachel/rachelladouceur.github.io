@@ -270,9 +270,9 @@
         <h2>Research Interests</h2>
         <hr>
         <ul class="custom-list">
-            <li>Disinformation and influence campaigns Detection</li>
-            <li>Analyze narrative patterns</li>
-            <li>Large Language Models (LLMs)</li>
+            <li>Disinformation and influence campaigns Detection: Evaluate LLMs for detecting and explaining manipulated information, including comparative multi-model approaches.</li>
+            <li>Analyze narrative patterns: Identify and validate dominant narratives in platform networks. Narrative analysis reveals the implicit meanings, interpretive frames, and discursive strategies that are never visible in a single message.(</li>
+            <li>Large Language Models (LLMs): Use LLMs to analyze narratives and assess their effectiveness in detecting and explaining disinformation through comparative multi-model approaches. </li>
         </ul>
 
         <!-- Publications Section -->
