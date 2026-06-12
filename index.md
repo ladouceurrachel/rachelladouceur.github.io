@@ -247,7 +247,8 @@
         
         <ul class="contact-links">
             <li>💼 <a href="https://www.linkedin.com/in/rachel-ladouceur-a2a86b26" target="_blank">My LinkedIn Profile</a></li>
-            <li>🎓 <a href="https://scholar.google.com/citations?user=ladouceurrachel" target="_blank">My Google Scholar Profile</a></li>
+            <li>🎓 <a href="https://scholar.google.com/citations?user=R0d1YZwAAAAJ" target="_blank">
+My Google Scholar Profile</a></li>
             <li>🆔 <a href="https://orcid.org/0009-0009-9201-0268" target="_blank">My ORCID Profile</a></li>
             <li>💻 <a href="https://github.com/ladouceurrachel" target="_blank">My GitHub Profile</a></li>
         </ul>
