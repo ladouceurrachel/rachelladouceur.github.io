@@ -263,16 +263,16 @@
         <h2 id="about" style="margin-top: 0;">About Me</h2>
         <hr>
         <p>
-            Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada since 2022. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time as a student PhD with the National Defence Research Centre.
+            Rachel Ladouceur, CPA, CISA, is a PhD candidate in Computer Science at the Université du Québec à Chicoutimi (UQAC), Canada since 2022. Her doctoral work examines the effectiveness of large language models (LLMs) in identifying and explaining disinformation. She works part-time at the National Defence Research Centre.
         </p>
 
         <!-- Research Interests Section -->
         <h2>Research Interests</h2>
         <hr>
         <ul class="custom-list">
-            <li>Disinformation and influence campaigns Detection: Detect and explain disinformation by clustering similar messages into thematic groups. Prioritize those with the greatest negative impact on society. </li>
-            <li>Analyze narrative patterns: Identify and validate dominant narratives in platform networks. Narrative analysis reveals the implicit meanings, interpretive frames, and discursive strategies that are never visible in a single message.(</li>
-            <li>Large Language Models (LLMs): Use LLMs to analyze narratives and assess their effectiveness in detecting and explaining disinformation through comparative multi-model approaches. </li>
+            <li>Disinformation Analysis: I investigate how misleading or manipulative content circulates across digital platforms by analyzing linguistic cues, rhetorical strategies, and contextual signals embedded in messages (e.g.: emojis).  </li>
+            <li>Narrative-level disinformation patterns: I study disinformation as a narrative phenomenon, examining how falsehoods propagate through recurring themes, interpretive frames, and discursive patterns rather than isolated messages.</li>
+            <li>Large Language Models for Narrative Detection: I explore how LLMs can be used to detect, cluster, and interpret disinformation narratives. My research compares multiple LLM models to assess their ability to identify narrative patterns. </li>
         </ul>
 
         <!-- Publications Section -->
